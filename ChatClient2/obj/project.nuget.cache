@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XCg7X3o1NT4=",
+  "success": true,
+  "projectFilePath": "D:\\HCI_Lab\\碩0暑期作業\\c#socket\\ChatClient2\\ChatClient2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
